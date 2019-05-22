@@ -7,7 +7,7 @@ $ npm run build
 $ npm start
 ```
 
-##Render type
+## Render type
 
 Server side rendering:-
 ```
