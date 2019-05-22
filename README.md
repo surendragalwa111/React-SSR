@@ -20,4 +20,4 @@ localhost:3000/client
 ```
 
 ## How to test:-
-Turn of javascript execution in you browser and reload application
+Turn off javascript execution in you browser and reload application
