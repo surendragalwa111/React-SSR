@@ -1,0 +1,13 @@
+[
+       { "name": "Sigma",
+         "publisher": "Sigma Infosolutions",
+         "price": "TUV 500 Certified",
+         "img":{
+           "src": "media/sigma.jpg",
+           "alt": "Sigma Logo"
+         },
+         "desc": "<p>Sigma is a young and dynamic technology partner which fast-tracks your business to success. Disrupting the conventional process with new age platforms and expertise, Sigma accelerates business solutions.</p><p>Sigma has something for everyone. </p>",
+         "link": "https://www.sigmainfo.net/",
+         "tweet":"With a 300+ strong think tank and new age technologies, Sigma follows a lean and agile work model to drive strategies for leaders of tomorrow."
+       }
+]
