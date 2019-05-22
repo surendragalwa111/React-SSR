@@ -2,7 +2,7 @@
 
 ## Setup
 ```
-$ npm run install
+$ npm install
 $ npm run build
 $ npm start
 ```
